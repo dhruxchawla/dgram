@@ -1,0 +1,9 @@
+@font-face {
+    font-family: sf;
+    src: url(./fonts/manrope.semibold.otf);
+}
+
+*{
+    margin: 0;
+    font-family: sf;
+}
